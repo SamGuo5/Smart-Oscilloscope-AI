@@ -1,0 +1,25 @@
+# LabVIEW 临时文件
+*.lvlps
+*.llb
+*.vi.bak
+__pycache__/
+
+# Python 依赖和缓存
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# 敏感信息
+api_key.txt
+*.key
